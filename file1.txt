@@ -1,1 +1,2 @@
 This is used for skipping stage file demostration`
+adding more data to try the git diff command
